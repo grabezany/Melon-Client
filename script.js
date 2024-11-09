@@ -1,1 +1,0 @@
-Chat = document.getElementById("Chat");
